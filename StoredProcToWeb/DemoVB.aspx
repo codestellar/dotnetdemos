@@ -25,7 +25,7 @@
                 DataValueField="Name">
             </asp:DropDownList>
             <asp:SqlDataSource ID="StoredProceduresDataSource" runat="server" 
-                ConnectionString="<%$ ConnectionStrings:LawFirmConnectionString %>" 
+                ConnectionString="<%$ ConnectionStrings:TCubeContext %>" 
                 
                 SelectCommand="SELECT Name FROM sysobjects WHERE type = @type ORDER BY name">
                 <SelectParameters>

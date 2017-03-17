@@ -17,7 +17,7 @@ Partial Class DemoVB
     Private Sub UpdateParameterDisplay()
         'Get the parameters for the selected stored procedure
         Using myConnection As New SqlConnection
-            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings("LawFirmConnectionString").ConnectionString
+            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings("TCubeContext").ConnectionString
 
             Dim myCommand As New SqlCommand
             myCommand.Connection = myConnection
@@ -57,7 +57,7 @@ Partial Class DemoVB
 
         'Execute the sproc w/the parameter values
         Using myConnection As New SqlConnection
-            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings("LawFirmConnectionString").ConnectionString
+            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings("TCubeContext").ConnectionString
 
             Dim myCommand As New SqlCommand
             myCommand.Connection = myConnection

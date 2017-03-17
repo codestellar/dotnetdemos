@@ -30,7 +30,7 @@ public partial class DemoCS : System.Web.UI.Page
         // Get the parameters for the selected stored procedure
         using (SqlConnection myConnection = new SqlConnection())
         {
-            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["LawFirmConnectionString"].ConnectionString;
+            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["TCubeContext"].ConnectionString;
 
             SqlCommand myCommand = new SqlCommand();
             myCommand.Connection = myConnection;
@@ -76,7 +76,7 @@ public partial class DemoCS : System.Web.UI.Page
         // Execute the sproc w/the parameter values
         using (SqlConnection myConnection = new SqlConnection())
         {
-            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["LawFirmConnectionString"].ConnectionString;
+            myConnection.ConnectionString = ConfigurationManager.ConnectionStrings["TCubeContext"].ConnectionString;
 
             SqlCommand myCommand = new SqlCommand();
             myCommand.Connection = myConnection;
