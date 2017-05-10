@@ -17,5 +17,7 @@ module Codestellar.TypewriterDemo.TypeScriptTemplates {
         public name: string = null;
         // ORDERS
         public orders: OrderModel[] = [];
+        // MYPROPERTY
+        public myProperty: number = 0;
     }
 }

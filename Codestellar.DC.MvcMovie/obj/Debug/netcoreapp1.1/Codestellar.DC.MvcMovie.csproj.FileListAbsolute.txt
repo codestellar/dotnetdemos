@@ -1,0 +1,8 @@
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\bin\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.deps.json
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\bin\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.runtimeconfig.json
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\bin\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.runtimeconfig.dev.json
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\bin\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.dll
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\bin\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.pdb
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\obj\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.AssemblyInfo.cs
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\obj\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.dll
+e:\2017\DotNet\dotnetdemos\Codestellar.DC.MvcMovie\obj\Debug\netcoreapp1.1\Codestellar.DC.MvcMovie.pdb

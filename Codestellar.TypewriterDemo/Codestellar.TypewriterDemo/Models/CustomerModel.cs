@@ -11,6 +11,7 @@ namespace Codestellar.TypewriterDemo.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public ICollection<OrderModel> Orders { get; set; }
+        public int MyProperty { get; set; }
     }
 
 }

@@ -1,0 +1,12 @@
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Codestellar.Xamarin.Tuts.dll
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Codestellar.Xamarin.Tuts.pdb
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Xamarin.Forms.Core.dll
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Xamarin.Forms.Platform.dll
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Xamarin.Forms.Core.xml
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\obj\Debug\Codestellar.Xamarin.Tuts.csprojResolveAssemblyReference.cache
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\obj\Debug\Codestellar.Xamarin.Tuts.dll
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\obj\Debug\Codestellar.Xamarin.Tuts.pdb
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\obj\Debug\Codestellar.Xamarin.Tuts.dll.mdb
+E:\2017\DotNet\dotnetdemos\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\Codestellar.Xamarin.Tuts\bin\Debug\Codestellar.Xamarin.Tuts.dll.mdb
